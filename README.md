@@ -1,2 +1,2 @@
-# Jackhammser
+# Jackhammer
 Modular standalone sequencer
