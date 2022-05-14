@@ -1,0 +1,2 @@
+# Jackhammser
+Modular standalone sequencer
