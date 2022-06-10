@@ -1,4 +1,4 @@
-# Jackhammer
+# Fiberglass
 Modular standalone sequencer with 26 patching points
 
 Modules:
